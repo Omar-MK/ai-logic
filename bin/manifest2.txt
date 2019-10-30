@@ -1,0 +1,3 @@
+Main-Class: Launcher2
+Class-Path: antlr-4.7.1-complete.jar logicng-1.4.0.jar sat4j-pb.jar
+
